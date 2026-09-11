@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Assistant Mobile</string>
+    <string name="send_button">Send</string>
+    <string name="input_hint">Type your message...</string>
+    <string name="model_selector">Select AI Model</string>
+    <string name="qwen_8b">Qwen 3 (8B)</string>
+    <string name="qwen_27b">Qwen 3 (27B Max)</string>
+    <string name="kimi_k3">Kimi K3</string>
+    <string name="grok_ai">SpaceX Grok</string>
+    <string name="loading">Loading...</string>
+    <string name="error">An error occurred</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AIAssistant" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorPrimary">#00D9FF</item>
+        <item name="android:colorSecondary">#00D9FF</item>
+        <item name="android:colorTertiary">#1A1F3A</item>
+        <item name="android:colorBackground">#0A0E27</item>
+        <item name="android:statusBarColor">#0A0E27</item>
+        <item name="android:navigationBarColor">#0A0E27</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
